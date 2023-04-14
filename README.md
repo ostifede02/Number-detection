@@ -10,9 +10,4 @@ A mask is created by taking the pixel mean value of each training image. However
 The pictures below shows the digit mask (left), where each pixel is the mean value of the trainig images (right)
 
 ![plot](./Images/Readme_img/Mask_3.png)
-![plot](./Images/Readme_img/T3.0.png)
-
-The pictures below shows the digit mask (left), where each pixel is the mean value of the trainig images (right)
-
-![plot](./Images/Readme_img/Mask_3.png)
-![plot](./Images/Readme_img/T3.0.png)
+![plot](./Images/Readme_img/3.3.png)
