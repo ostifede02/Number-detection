@@ -1,6 +1,5 @@
 # Number detection
-This project is an experiment to detect handwritten digits without using neural
-networks.
+This project is an experiment to detect handwritten digits without using artificial intelligence.
 
 ## working principles
 ### creating the mask
