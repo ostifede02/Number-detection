@@ -14,4 +14,5 @@ The pictures below shows the digit mask (left), where each pixel is the mean val
 
 The pictures below shows the digit mask (left), where each pixel is the mean value of the trainig images (right)
 
-![plot](./
+![plot](./Images/Readme_img/Mask_3.png)
+![plot](./Images/Readme_img/T3.0.png)
